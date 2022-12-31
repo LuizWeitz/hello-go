@@ -1,6 +1,7 @@
 # Hello Go
 
 -> Repositório com meus estudos da linguagem Go(Golang)
+-> Arquivo go.mod vamos encontrar todas as dependências que o projeto vai usar 
 
 -> Para poder rodar esse projeto em seu localhost, você vai precisar seguir os seguintes passos :
 
