@@ -1,0 +1,5 @@
+-> Para rodar o projeto
+go run main.go
+
+-> Para apagar dependências que não estão sendo usadas
+go mod tidy
