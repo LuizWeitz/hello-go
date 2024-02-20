@@ -62,4 +62,8 @@ func main() {
 
 	fmt.Println(len(slice3)) // 1
 
+	// Basicamente a diferença entre Array e Slice
+	// Array é para algo fix, tanto em tamanho e aceita só um tipo de valor
+	// Slice é algo flexível, podendo mudar seu tamanho e colocar tipos de dados diferentes juntos
+
 }
